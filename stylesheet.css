@@ -1,0 +1,18 @@
+* {
+	border: 1px black solid;
+}
+
+.main {
+	width: 420px;
+	height: 460px;
+	margin: auto;
+	background-color: red;
+	display: static;
+}
+
+.main > div {
+	padding: 0;
+	height: 40px;
+	width: 40px;
+	display: inline-block;
+}
